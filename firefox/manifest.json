@@ -1,0 +1,40 @@
+{
+  "manifest_version": 3,
+  "name": "Bureau of Meteorology https Enabler",
+  "author": "Dangaz",
+  "description": "Redirects Bureau of Meteorology URLs to their https server.",
+  "version": "1.1",
+  "browser_specific_settings": {
+    "gecko": {
+      "id":"{01904ce5-ee87-7aa6-9406-5d1908008135}"
+    }
+  },
+  "declarative_net_request" : {
+    "rule_resources" : [{
+      "id": "ruleset_1",
+      "enabled": true,
+      "path": "bomrule.json"
+    }]
+  },
+  "permissions": [
+    "declarativeNetRequestWithHostAccess"
+  ],
+  "action": {
+    "default_title": "BoM https",
+    "default_popup": "bomhttps.html",
+    "default_icon": "images/icon-128.png"
+  },
+  "host_permissions": [
+    "http://bom.gov.au/*",
+    "http://www.bom.gov.au/*",
+    "https://bom.gov.au/*",
+    "https://www.bom.gov.au/*",
+    "https://reg.bom.gov.au/*"
+  ],
+  "icons": {
+    "16": "images/icon-16.png",
+    "32": "images/icon-32.png",
+    "48": "images/icon-48.png",
+    "128": "images/icon-128.png"
+  }
+}
