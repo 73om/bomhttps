@@ -15,4 +15,4 @@ This extension is currently available for:<br />
 Chrome at https://chromewebstore.google.com/detail/bureau-of-meteorology-htt/hbkpgmpejibghnedepcminnfjmiepoii<br /> 
 Edge at https://microsoftedge.microsoft.com/addons/detail/bureau-of-meteorology-htt/jccjppajcjhnnpafkpcdlbhojhefacgg<br /> 
 Firefox at https://addons.mozilla.org/en-US/firefox/addon/bureau-of-meteorology-https/<br />
-Opera at (Currently in review stage for store listing)<br /> 
+Opera at (Currently in review stage for store listing but should be able to install from the Chrome Web store.)<br /> 
