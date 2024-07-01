@@ -12,7 +12,7 @@ The only difference between the Chrome/Edge/Opera version and the Firefox one is
 Feel free to buy me a beer at https://ko-fi.com/73oldman
 
 This extension is currently available for:<br /> 
-Chrome at https://chromewebstore.google.com/detail/bureau-of-meteorology-htt/hbkpgmpejibghnedepcminnfjmiepoii<br /> 
-Edge at https://microsoftedge.microsoft.com/addons/detail/bureau-of-meteorology-htt/jccjppajcjhnnpafkpcdlbhojhefacgg<br /> 
-Firefox at https://addons.mozilla.org/en-US/firefox/addon/bureau-of-meteorology-https/<br />
-Opera at (Currently in review stage for store listing but should be able to install from the Chrome Web store.)<br /> 
+[Chrome](https://chromewebstore.google.com/detail/bureau-of-meteorology-htt/hbkpgmpejibghnedepcminnfjmiepoii)<br /> 
+[Edge](https://microsoftedge.microsoft.com/addons/detail/bureau-of-meteorology-htt/jccjppajcjhnnpafkpcdlbhojhefacgg)<br /> 
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/bureau-of-meteorology-https/)<br />
+I have submitted it to the Opera add-ons and it's in review but they are so pathetically slow that I'm not holding my breath, there are people who've waited multiple years sofar and haven't been reviewed yet. You should be able to install from the Chrome Web Store link above anyway.<br /> 
