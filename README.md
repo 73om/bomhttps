@@ -11,7 +11,7 @@ The only difference between the Chrome/Edge/Opera version and the Firefox one is
 
 Feel free to buy me a beer at https://ko-fi.com/73oldman
 
-This extension is currently available free in the extension stores for:<br /> 
+### This extension is currently available free in the extension stores for:
 [Chrome](https://chromewebstore.google.com/detail/bureau-of-meteorology-htt/hbkpgmpejibghnedepcminnfjmiepoii)<br /> 
 [Edge](https://microsoftedge.microsoft.com/addons/detail/bureau-of-meteorology-htt/jccjppajcjhnnpafkpcdlbhojhefacgg)<br /> 
 [Firefox](https://addons.mozilla.org/en-US/firefox/addon/bureau-of-meteorology-https/)<br />
