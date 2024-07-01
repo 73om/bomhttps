@@ -9,7 +9,7 @@ The only difference between the Chrome/Edge/Opera version and the Firefox one is
   },
 ```
 
-Feel free to buy me a beer at https://ko-fi.com/73oldman
+Feel free to buy me a beer here: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N3GW7TY)
 
 ### This extension is currently available free in the extension stores for:
 [Chrome](https://chromewebstore.google.com/detail/bureau-of-meteorology-htt/hbkpgmpejibghnedepcminnfjmiepoii)<br /> 
